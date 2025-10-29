@@ -49,7 +49,7 @@ Bot do WhatsApp com comandos personalizados
 - Integração com APIs
 
 ---
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lightshzk&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -59,6 +59,12 @@ Bot do WhatsApp com comandos personalizados
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightshzk&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lightshzk&theme=tokyonight&hide_border=true)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
