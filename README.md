@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lightshzk/Lightshzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Lightshzk! 
 
-Here are some ideas to get you started:
+### 💜 Desenvolvedor | Bot Creator | UTAU Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Criador+de+Bots+do+WhatsApp;Amante+de+UTAUloides;Programador+JavaScript;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🌸 Sobre Mim
+
+- 🤖 Criador dos bots **Defoko** e **Kasanete** para WhatsApp
+- 💜 Fã de UTAUloides (especialmente Uta Utane!)
+- 🎵 Interessado em síntese de voz e música
+- 🌱 Atualmente aprendendo: IA, Node.js avançado, APIs
+- 💬 Pergunte-me sobre: Bots do WhatsApp, JavaScript, UTAU
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 Meus Projetos
+
+### 🌸 [Defoko Bot](https://github.com/Lightshzk/defoko-bot)
+Bot do WhatsApp com personalidade kawaii baseado na UTAU Defoko
+- Sistema de jogos e conquistas
+- Banco de dados de usuários
+- Preparado para integração com IA
+
+### 🎵 [Kasanete Bot](https://github.com/Lightshzk/kasanete-bot)
+Bot do WhatsApp com comandos personalizados
+- Sistema modular de comandos
+- Funções utilitárias
+- Integração com APIs
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightshzk&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightshzk&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lightshzk&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Objetivos 2024-2025
+
+- ✅ Criar bots funcionais do WhatsApp
+- 🔄 Integrar IA nos bots (OpenAI/Gemini)
+- 📚 Aprender mais sobre Machine Learning
+- 🎵 Contribuir com a comunidade UTAU
+- 🌟 Alcançar 50 estrelas nos repositórios
+
+---
+
+## 💬 Vamos Conversar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Lightshzk)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "Beep boop~ Criando o futuro um bot por vez!" 💜
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lightshzk&color=blueviolet&style=flat-square)
+
+</div>
