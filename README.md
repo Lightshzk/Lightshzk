@@ -58,11 +58,6 @@ Bot modular com comandos especiais e estilo de personagem anime assistente.
 **Funcionalidades**: Sistema de plugins, comandos personalizáveis, integração com APIs  
 🔗 [Ver Repositório](https://github.com/Lightshzk/kasanete-bot)
 
-### 🔥 Eto-Yoshimura Bot (anime-dark style)
-Bot com PvP, XP, duelos e conteúdo +18 para adultos — inspirado em universos mais sombrios.  
-**Funcionalidades**: Sistema de batalha, ranking, dungeons, eventos especiais  
-🔗 [Ver Repositório](https://github.com/Lightshzk/eto-yoshimura)
-
 ### 🎭 Rachel Bot
 Bot em desenvolvimento com foco em interações conversacionais inteligentes.  
 **Status**: Em construção 🚧
